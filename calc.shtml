@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="title" content="Расчет стоимости вывески — рекламное агентство Призма">
+  <meta name="description" content="Рассчитать цену изготовления вывески в Перми: цены на печать и баннеры">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/materialize.css">
+  <link rel="stylesheet" href="css/style_menu.css">
+  <link rel="stylesheet" href="css/slick/slick/slick.css">
+
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- favicon -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon114@2x.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon72@2x.png">
+  <link rel="shortcut icon" href="img/favicon16@2x.png">
+
+  <title>Расчет стоимости вывески — рекламное агентство Призма</title>
+
+  <div class="content">
+    <h1 class="center-align" style="padding-top:100px;">калькулятор расчета стоимости</h1>
+    
+       <div class="row">
+           <div class="col s12 m12 l12">
+             <ul class="tabs">
+               <li class="tab"><a href="#box_liter">Короба и буквы</a></li>
+               <li class="tab"><a href="#table">Стенды и таблички</a></li>
+               <li class="tab"><a href="#cut">Резка</a></li>
+             </ul>
+           </div>
+         </div>
+<section class="box_liter" id="box_liter">
+  
+  <div class="row">
+    <section class="calc_table">
+      <div class="col s12 m12 l12">
+        <!-- CalcCreator.com -->
+      <div id="calccreatorinsert" style="width: 100%; height:800px; "></div>
+      <script type="text/javascript">
+          var insertScriptUrl = "http://calccreator.com/ViewCalc/1400";
+      </script>
+      <script type="text/javascript" src="http://calccreator.com/open/scripts/insertcalc.js"></script>
+      <!-- /CalcCreator.com -->
+      </div>
+    </section>
+  </div>
+</section>
+
+<section class="table" id="table">
+  <div class="row">
+  <section class="calc_table">
+    <div class="col s12 m12 l12">
+      <blockquote>
+         Данный калькулятор коректно считает от 0.5 м.кв!<br />
+         Расценки на некоторые стандартные изделия указаны ниже.
+     </blockquote>
+     <iframe style="border: none;" src="https://calccreator.com/ViewCalc/1486" width="100%" height="620px"></iframe>
+     <!-- <div id="calccreatorinsert" style="width: 1210px; height: 500px;"></div>
+    <script type="text/javascript">
+        var insertScriptUrl = "http://calccreator.com/ViewCalc/1486";
+    </script>
+    <script type="text/javascript" src="http://calccreator.com/open/scripts/insertcalc.js"></script> -->
+    </div>
+  </section>
+ </div>
+</section>
+
+
+<section class="cut" id="cut">
+  <div class="row">
+    <div class="col s12 m12 l12">
+      <!-- CalcCreator.com -->
+<div id="calccreatorinsert" style="width: 730px; height: 910px; "></div>
+<script type="text/javascript">
+    var insertScriptUrl = "https://calccreator.com/ViewCalc/12773";
+</script>
+<script type="text/javascript" src="https://calccreator.com/open/scripts/insertcalc.js"></script>
+<!-- /CalcCreator.com -->
+    </div>
+  </div>
+</section>
+
+
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+<script src="js/materialize.js"></script>
+<script src="js/init.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="js/mail.js"></script>
+<script src="css/slick/slick/slick.js"></script>
+     </body>
+</html>
